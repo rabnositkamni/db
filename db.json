@@ -2,7 +2,7 @@
 	"userNameTeeth": {
 		"top_left_8": {
 			"toothName": "Третий моляр (большой коренной, зуб мудрости), левый №8",
-			"toothPresence": true,
+			"toothPresence": false,
 			"toothPulp": true,
 			"toothFilling": false,
 			"toothCrown": false,
