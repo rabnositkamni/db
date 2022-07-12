@@ -122,16 +122,16 @@
 		},
 		"top_rigt_8": {
 			"toothName": "Третий моляр (большой коренной, зуб мудрости), правый №8",
-			"toothPresence": true,
-			"toothPulp": true,
+			"toothPresence": false,
+			"toothPulp": false,
 			"toothFilling": false,
 			"toothCrown": false,
 			"notes": {}
 		},
 		"bottom_left_8": {
 			"toothName": "Третий моляр (большой коренной, зуб мудрости), №8",
-			"toothPresence": true,
-			"toothPulp": true,
+			"toothPresence": false,
+			"toothPulp": false,
 			"toothFilling": false,
 			"toothCrown": false,
 			"notes": {}
@@ -140,7 +140,7 @@
 			"toothName": "Второй моляр (большой коренной), левый №7",
 			"toothPresence": true,
 			"toothPulp": true,
-			"toothFilling": false,
+			"toothFilling": true,
 			"toothCrown": false,
 			"notes": {}
 		},
