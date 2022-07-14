@@ -6,7 +6,11 @@
 			"toothPulp": true,
 			"toothFilling": false,
 			"toothCrown": false,
-			"notes": {}
+			"notes": {
+				"date": "2018/6/14",
+				"action": "Удаление зуба",
+				"money": "800"
+			}
 		},
 		"top_left_7": {
 			"toothName": "Второй моляр (большой коренной), левый №7",
