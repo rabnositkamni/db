@@ -3,8 +3,8 @@
 		"top_left_8": {
 			"toothName": "Третий моляр (большой коренной, зуб мудрости), левый №8",
 			"toothPresence": false,
-			"toothPulp": true,
-			"toothFilling": false,
+			"toothPulp": false,
+			"toothFilling": true,
 			"toothCrown": false,
 			"notes": [
 				{
@@ -31,7 +31,7 @@
 			"toothName": "Второй моляр (большой коренной), левый №7",
 			"toothPresence": true,
 			"toothPulp": true,
-			"toothFilling": false,
+			"toothFilling": true,
 			"toothCrown": false,
 			"notes": [
 				{
@@ -48,7 +48,7 @@
 			"toothPulp": true,
 			"toothFilling": false,
 			"toothCrown": false,
-			"notes": {}
+			"notes": []
 		},
 		"top_left_5": {
 			"toothName": "Второй премоляр (малый коренной), левый №5",
@@ -56,7 +56,7 @@
 			"toothPulp": true,
 			"toothFilling": false,
 			"toothCrown": false,
-			"notes": {}
+			"notes": []
 		},
 		"top_left_4": {
 			"toothName": "Первый премоляр (малый коренной), левый №4",
@@ -64,7 +64,7 @@
 			"toothPulp": true,
 			"toothFilling": false,
 			"toothCrown": false,
-			"notes": {}
+			"notes": []
 		},
 		"top_left_3": {
 			"toothName": "Клык, левый №3",
@@ -72,7 +72,7 @@
 			"toothPulp": true,
 			"toothFilling": false,
 			"toothCrown": false,
-			"notes": {}
+			"notes": []
 		},
 		"top_left_2": {
 			"toothName": "Боковой резец, левый №2",
@@ -80,7 +80,7 @@
 			"toothPulp": true,
 			"toothFilling": false,
 			"toothCrown": false,
-			"notes": {}
+			"notes": []
 		},
 		"top_left_1": {
 			"toothName": "Центральный резец, левый №1",
@@ -88,7 +88,7 @@
 			"toothPulp": true,
 			"toothFilling": false,
 			"toothCrown": false,
-			"notes": {}
+			"notes": []
 		},
 		"top_rigt_1": {
 			"toothName": "Центральный резец, правый №1",
@@ -96,7 +96,7 @@
 			"toothPulp": true,
 			"toothFilling": false,
 			"toothCrown": false,
-			"notes": {}
+			"notes": []
 		},
 		"top_rigt_2": {
 			"toothName": "Боковой резец, правый №2",
@@ -104,7 +104,7 @@
 			"toothPulp": true,
 			"toothFilling": false,
 			"toothCrown": false,
-			"notes": {}
+			"notes": []
 		},
 		"top_rigt_3": {
 			"toothName": "Клык, правый №3",
@@ -112,7 +112,7 @@
 			"toothPulp": true,
 			"toothFilling": false,
 			"toothCrown": false,
-			"notes": {}
+			"notes": []
 		},
 		"top_rigt_4": {
 			"toothName": "Первый премоляр (малый коренной), правый №4",
@@ -120,7 +120,7 @@
 			"toothPulp": true,
 			"toothFilling": false,
 			"toothCrown": false,
-			"notes": {}
+			"notes": []
 		},
 		"top_rigt_5": {
 			"toothName": "Второй премоляр (малый коренной), правый №5",
@@ -128,7 +128,7 @@
 			"toothPulp": true,
 			"toothFilling": false,
 			"toothCrown": false,
-			"notes": {}
+			"notes": []
 		},
 		"top_rigt_6": {
 			"toothName": "Первый моляр (большой коренной), правый №6",
@@ -136,7 +136,7 @@
 			"toothPulp": true,
 			"toothFilling": false,
 			"toothCrown": false,
-			"notes": {}
+			"notes": []
 		},
 		"top_rigt_7": {
 			"toothName": "Второй моляр (большой коренной), правый №7",
@@ -144,7 +144,7 @@
 			"toothPulp": true,
 			"toothFilling": false,
 			"toothCrown": false,
-			"notes": {}
+			"notes": []
 		},
 		"top_rigt_8": {
 			"toothName": "Третий моляр (большой коренной, зуб мудрости), правый №8",
@@ -152,7 +152,7 @@
 			"toothPulp": false,
 			"toothFilling": false,
 			"toothCrown": false,
-			"notes": {}
+			"notes": []
 		},
 		"bottom_left_8": {
 			"toothName": "Третий моляр (большой коренной, зуб мудрости), №8",
@@ -160,7 +160,7 @@
 			"toothPulp": false,
 			"toothFilling": false,
 			"toothCrown": false,
-			"notes": {}
+			"notes": []
 		},
 		"bottom_left_7": {
 			"toothName": "Второй моляр (большой коренной), левый №7",
@@ -168,7 +168,7 @@
 			"toothPulp": true,
 			"toothFilling": true,
 			"toothCrown": false,
-			"notes": {}
+			"notes": []
 		},
 		"bottom_left_6": {
 			"toothName": "Первый моляр (большой коренной), левый №6",
@@ -176,7 +176,7 @@
 			"toothPulp": true,
 			"toothFilling": false,
 			"toothCrown": false,
-			"notes": {}
+			"notes": []
 		},
 		"bottom_left_5": {
 			"toothName": "Второй премоляр (малый коренной), левый №5",
@@ -184,7 +184,7 @@
 			"toothPulp": true,
 			"toothFilling": false,
 			"toothCrown": false,
-			"notes": {}
+			"notes": []
 		},
 		"bottom_left_4": {
 			"toothName": "Первый премоляр (малый коренной), левый №4",
@@ -192,7 +192,7 @@
 			"toothPulp": true,
 			"toothFilling": false,
 			"toothCrown": false,
-			"notes": {}
+			"notes": []
 		},
 		"bottom_left_3": {
 			"toothName": "Клык, левый №3",
@@ -200,7 +200,7 @@
 			"toothPulp": true,
 			"toothFilling": false,
 			"toothCrown": false,
-			"notes": {}
+			"notes": []
 		},
 		"bottom_left_2": {
 			"toothName": "Резец, левый №2",
@@ -208,7 +208,7 @@
 			"toothPulp": true,
 			"toothFilling": false,
 			"toothCrown": false,
-			"notes": {}
+			"notes": []
 		},
 		"bottom_left_1": {
 			"toothName": "Резец, левый №1",
@@ -216,7 +216,7 @@
 			"toothPulp": true,
 			"toothFilling": false,
 			"toothCrown": false,
-			"notes": {}
+			"notes": []
 		},
 		"bottom_rigt_1": {
 			"toothName": "Резец, правый №1",
@@ -224,7 +224,7 @@
 			"toothPulp": true,
 			"toothFilling": false,
 			"toothCrown": false,
-			"notes": {}
+			"notes": []
 		},
 		"bottom_rigt_2": {
 			"toothName": "Резец, правый №2",
@@ -232,7 +232,7 @@
 			"toothPulp": true,
 			"toothFilling": false,
 			"toothCrown": false,
-			"notes": {}
+			"notes": []
 		},
 		"bottom_rigt_3": {
 			"toothName": "Клык, правый №3",
@@ -240,7 +240,7 @@
 			"toothPulp": true,
 			"toothFilling": false,
 			"toothCrown": false,
-			"notes": {}
+			"notes": []
 		},
 		"bottom_rigt_4": {
 			"toothName": "Первый премоляр (малый коренной), левый №4",
@@ -248,7 +248,7 @@
 			"toothPulp": true,
 			"toothFilling": false,
 			"toothCrown": false,
-			"notes": {}
+			"notes": []
 		},
 		"bottom_rigt_5": {
 			"toothName": "Второй премоляр (малый коренной), левый №5",
@@ -256,7 +256,7 @@
 			"toothPulp": true,
 			"toothFilling": false,
 			"toothCrown": false,
-			"notes": {}
+			"notes": []
 		},
 		"bottom_rigt_6": {
 			"toothName": "Первый моляр (большой коренной), правый №6",
@@ -264,7 +264,7 @@
 			"toothPulp": true,
 			"toothFilling": false,
 			"toothCrown": false,
-			"notes": {}
+			"notes": []
 		},
 		"bottom_rigt_7": {
 			"toothName": "Второй моляр (большой коренной), правый №7",
@@ -272,7 +272,7 @@
 			"toothPulp": true,
 			"toothFilling": false,
 			"toothCrown": false,
-			"notes": {}
+			"notes": []
 		},
 		"bottom_rigt_8": {
 			"toothName": "Третий моляр (большой коренной, зуб мудрости), правый №8",
@@ -280,7 +280,7 @@
 			"toothPulp": true,
 			"toothFilling": false,
 			"toothCrown": false,
-			"notes": {}
+			"notes": []
 		}
 	}
 }
